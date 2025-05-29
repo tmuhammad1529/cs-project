@@ -1,0 +1,1 @@
+# This is is a sample Python script for Cybersecurity Training 
